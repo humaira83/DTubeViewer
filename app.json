@@ -9,7 +9,7 @@
       "ios",
       "android"
     ],
-    "version": "2.0.1",
+    "version": "2.0.2",
     "orientation": "portrait",
     "icon": "./assets/images/web_hi_res_512.png",
     "splash": {
@@ -23,7 +23,7 @@
     },
     "android": {
       "package": "pro.bostrot.dtubeviewer",
-      "versionCode": 11
+      "versionCode": 12
     },
     "scheme": "dtubeviewer",
   },
