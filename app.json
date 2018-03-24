@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "DTube Viewer",
-    "description": "Unofficial DTube App for streaming content",
+    "description": "DTube App for streaming content",
     "slug": "dtubeviewer",
     "privacy": "public",
     "sdkVersion": "25.0.0",
@@ -9,7 +9,7 @@
       "ios",
       "android"
     ],
-    "version": "2.0.2",
+    "version": "2.0.3",
     "orientation": "portrait",
     "icon": "./assets/images/web_hi_res_512.png",
     "splash": {
@@ -23,8 +23,8 @@
     },
     "android": {
       "package": "pro.bostrot.dtubeviewer",
-      "versionCode": 12
+      "versionCode": 13
     },
-    "scheme": "dtubeviewer",
-  },
+    "scheme": "dtubeviewer"
+  }
 }
